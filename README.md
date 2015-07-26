@@ -3,7 +3,7 @@
 
 - [x] Grunt tasks for build a dist app
 - [x] Sass support
-- [ ] TDD support
+- [x] TDD support
 
 
 ### Testing
